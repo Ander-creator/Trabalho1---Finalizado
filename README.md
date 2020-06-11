@@ -1,11 +1,16 @@
 # Trabalho1 EA876
   
-  *Projetistas:*
+  *Projetistas:* 
+  
    *Anderson Santos Silva RA:166191
+  
    *Lucas Leite Tavares   RA:156377
+  
   *Docentes:*
-   *Rafael Ferrari
-   *Thiago Tavares
+   
+    *Rafael Ferrari
+    
+    *Thiago Tavares
   *Objetivo:*
   Implementar um programa em Flex-Bison que receba como entrada uma expressão
   matemática, e devolva como resposta uma série de comandos em Assembly que 
